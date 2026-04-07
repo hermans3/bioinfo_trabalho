@@ -1,0 +1,92 @@
+#FastProtein-1.0 Summary
+
+Proteins in FASTA: 2031
+Processed proteins: 2031
+Ignored proteins (contains non-AA's sequence): 0
+Molecular mass (kda) mean: 32.49 ± 24.79
+Isoelectric point mean: 6.69 ± 2.00
+Hydrophicity mean: -0.13 ± 0.46
+Aromaticity mean: 0.10 ± 0.04
+Proteins with TM: 471
+Proteins with GPI: 17
+Membrane proteins: 480
+Proteins with SP: 202
+Proteins with E.R Retention domains: 326
+Proteins with NGlycosylation domains: 1222
+Subcellular localization (by WolfPSort) - Organism: animal summary:
+	Cytosol: 1011
+	Plasma membrane: 335
+	Extracellular: 211
+	Mitochondrion: 142
+	Other: 117
+	Cytoskeleton: 101
+	Nucleus: 75
+	E.R: 28
+	Peroxisome: 10
+	Lysosome: 1
+
+E.R Retention domain summary:
+	AEEL: 43
+	KEEL: 39
+	REEL: 35
+	QEEL: 34
+	AQEL: 30
+	SEEL: 25
+	KQEL: 22
+	RQEL: 21
+	ADEL: 19
+	SQEL: 16
+	KDEL: 12
+	QQEL: 9
+	HEEL: 9
+	SNEL: 8
+	ANEL: 8
+	RNEL: 7
+	KNEL: 7
+	SDEL: 7
+	QDEL: 6
+	QNEL: 5
+	HDEL: 5
+	HQEL: 5
+	RDEL: 5
+	HNEL: 2
+
+NGlyc Retention domain summary:
+	NLS: 230
+	NLT: 187
+	NGS: 129
+	NGT: 118
+	NIS: 117
+	NVT: 111
+	NIT: 99
+	NVS: 98
+	NAS: 95
+	NFS: 95
+	NKS: 89
+	NQS: 81
+	NSS: 79
+	NQT: 78
+	NTS: 73
+	NRS: 73
+	NES: 71
+	NET: 69
+	NKT: 66
+	NAT: 64
+	NNS: 64
+	NTT: 63
+	NYS: 62
+	NDS: 57
+	NYT: 54
+	NST: 53
+	NRT: 52
+	NFT: 52
+	NNT: 48
+	NDT: 40
+	NHT: 36
+	NMT: 32
+	NMS: 32
+	NHS: 31
+	NWS: 23
+	NWT: 14
+	NCT: 8
+	NCS: 8
